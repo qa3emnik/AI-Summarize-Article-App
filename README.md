@@ -66,7 +66,7 @@ npm install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-VITE_RAPID_API_ARTICLE_KEY=
+RAPID_API_ARTICLE_KEY=
 ```
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the [Rapid API website]
